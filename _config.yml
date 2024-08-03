@@ -1,18 +1,17 @@
-title: Solutions of Kaggle Competitions:
+title: Solutions of Kaggle Competitions
 author:
   name: Anuj Gupta
   email: anuj0456@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: > 
+description: >
   Typically, after each Kaggle competition, the winners and top performers share their 
   solutions in the discussion forums. However, searching for specific competitions and 
   their solutions can be quite time-consuming when needed. I have always wished for a 
   centralized repository of links to solutions from all past Kaggle competitions. This 
-  would serve as a valuable reference point on many occasions. 
-  
-  
+  would serve as a valuable reference point on many occasions.
+
 # Build settings
 
 theme: minima
@@ -56,7 +55,6 @@ minima:
 #
 header_pages:
   - about.md
-
 # Set to `true` to show excerpts on the homepage.
 #
 # show_excerpts: false
