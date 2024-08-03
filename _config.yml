@@ -20,6 +20,9 @@ plugins:
 # Theme-specific settings
 
 minima:
+  # Minima skin selection.
+  # Available skins are:
+  skin: classic
   # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #
