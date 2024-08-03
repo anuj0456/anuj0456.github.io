@@ -5,8 +5,8 @@ author:
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-  Typically, after each Kaggle competition, the winners and top performers share their solutions in the discussion forums. However, searching for specific competitions and their solutions can be quite time-consuming when needed. I have always wished for a centralized repository of links to solutions from all past Kaggle competitions. This would serve as a valuable reference point on many occasions. 
+description: > 
+Typically, after each Kaggle competition, the winners and top performers share their solutions in the discussion forums. However, searching for specific competitions and their solutions can be quite time-consuming when needed. I have always wished for a centralized repository of links to solutions from all past Kaggle competitions. This would serve as a valuable reference point on many occasions. 
   
   
 # Build settings
