@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Create custom UI component in Android"
 date:   2022-08-10 14:05:37 +0530
 categories: jekyll update
 ---
