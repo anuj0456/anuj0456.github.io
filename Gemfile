@@ -3,3 +3,5 @@ gemspec
 
 gem "jekyll"
 gem "webrick"
+gem "jekyll-import"
+gem "rss"
