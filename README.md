@@ -9,7 +9,7 @@ I'm a passionate software developer with a love for creating innovative solution
 - 🌱 I’m currently learning more about cloud computing and DevOps practices.
 - 🤔 I’m looking for help with open-source contributions.
 - 💬 Ask me about anything related to web development, Python, or JavaScript.
-- 📫 How to reach me: [anuj0456@example.com](mailto:anuj0456@example.com)
+- 📫 How to reach me: [anuj0456@example.com](mailto:anuj0456@gmail.com)
 - ⚡ Fun fact: I love reading science fiction novels and playing chess.
 
 ## Skills
