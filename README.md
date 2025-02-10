@@ -28,18 +28,8 @@ I'm a passionate software developer with a love for creating innovative solution
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/anuj0456/)
+- [LinkedIn](https://www.linkedin.com/in/anuj-gupta-9a691527/)
 - [Twitter](https://twitter.com/anuj0456)
 - [Personal Website](https://anuj0456.dev)
-
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Build a REST API with Django](https://anuj0456.dev/blog/django-rest-api)
-- [Getting Started with React Hooks](https://anuj0456.dev/blog/react-hooks)
-- [A Beginner's Guide to Kubernetes](https://anuj0456.dev/blog/kubernetes-guide)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ⭐️ From [anuj0456](https://github.com/anuj0456)
